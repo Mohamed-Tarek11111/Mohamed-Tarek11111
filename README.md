@@ -9,7 +9,7 @@
 </p>
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
-
+## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> About Me
 - 🔭 I’m currently working on desktop application **baraka**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohamed-Tarek11111](https://github.com/Mohamed-Tarek11111)
