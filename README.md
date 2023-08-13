@@ -1,4 +1,4 @@
-<img src="./your-header-image-name.png" alt="Header" />
+<img src="./github-header-image (1).png" alt="Header" />
 
 <h1 align="center">SOFTWARE ENGINEER</h3>
 
