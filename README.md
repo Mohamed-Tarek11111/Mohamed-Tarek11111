@@ -1,4 +1,4 @@
-<img src="/m1.jpg.png" alt="Header" />
+<img src="./your-header-image-name.png" alt="Header" />
 
 <h1 align="center">SOFTWARE ENGINEER</h3>
 
