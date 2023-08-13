@@ -34,17 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-tarek11111&" alt="mohamed-tarek11111" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-tarek11111&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-tarek11111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed-tarek11111" alt="mohamed-tarek11111" /></a> </p>
 
-<p align="center">
-    <a href="https://github.com/leviarista">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leviarista&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
-    </a>
-    <a href="https://github.com/leviarista">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=leviarista&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="Leví Arista's GitHub Stats" />
-    </a>
-</p>
